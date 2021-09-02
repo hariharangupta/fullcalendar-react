@@ -1,3 +1,6 @@
+## The Project was created FullCalendar package, using react fullcalendar. 
+### Embeded the fullcalendar using the inbuilt props.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
